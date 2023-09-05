@@ -1,6 +1,6 @@
-# *DON'T COPY BLINDLY*
-- Read carefully and execute it at your own risk!
+# __DON'T COPY BLINDLY__
+Read carefully and execute it at your own risk!
 
 ## Developer-Setup
-- A new installation script for new development env
-- Just automating things!
+A new installation script for new development env
+Just automating things!
