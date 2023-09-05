@@ -1,6 +1,7 @@
 # __DON'T COPY BLINDLY__
 Read carefully and execute it at your own risk!
 
-## Developer-Setup
+### ABOUT
 A new installation script for new development env
+<br>
 Just automating things!
