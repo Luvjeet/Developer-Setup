@@ -27,6 +27,12 @@ echo "Installing Zsh plugins..."
 git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
 
+# Installing ripgrep (written in RUST) and fzf
+echo "Installing ripgrep (for blazingly fast search)..."
+sudo apt install -y ripgrep
+
+echo "Installing fuzzy finder..."
+sudo apt install -y fzf 
 
 # Installing tmux epic and creating files tmux-cheat-sheet and tmux-sessionizer
 
